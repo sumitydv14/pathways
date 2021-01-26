@@ -4,7 +4,7 @@ a{
 }
 
 header{
-    background-image: url('../images/home_vFINAL.png');
+    background-image: url('home_vFINAL.png');
     background-size: cover;
     background-position: top center;
     background-repeat: no-repeat;
